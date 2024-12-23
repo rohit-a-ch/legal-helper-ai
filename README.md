@@ -32,5 +32,8 @@ Legal Helper is a Streamlit application designed to assist users in querying leg
 
 ### Dependencies
 Install the required Python packages from the `requirements.txt` file:
+
+Sample Output:
+<img width="1435" alt="Screenshot 2024-12-23 at 3 34 52 PM" src="https://github.com/user-attachments/assets/555f6189-fff8-4894-baae-0f288f49e20c" />
 ```bash
 pip install -r requirements.txt
